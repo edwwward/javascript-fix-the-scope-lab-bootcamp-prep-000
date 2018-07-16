@@ -14,6 +14,5 @@ function add2(n) {
 }
 
 function funkyFunction() {
-  var funkyFunction = [function add2(n)]
   return funkyFunction;
 }
