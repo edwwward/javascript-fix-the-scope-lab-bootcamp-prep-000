@@ -13,7 +13,7 @@ function add2(n) {
   return add2;
 }
 
-function yourAnimal() {
-  var yourAnimal = "cat";
-  return yourAnimal;
+function funkyFunction() {
+  var funkyFunction = another();
+  return funkyFunction;
 }
